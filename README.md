@@ -55,17 +55,25 @@ print(" ")  # Espacio
 g1 = int(input("Ingrese el primer numero triunfador: "))
 g2 = int(input("Ingrese el segundo numero triunfador: "))
 g3 = int(input("Ingrese el tercer numero triunfador: "))
+print(" ")
 #Imprimir los numeros ganadores
 thislist = [g1, g2, g3]
+
 #Usar sort para ordenarlos de menor a mayor
 thislist.sort() 
 #Hacer loop para ponerlos en una lista vertical
 print(thislist)
+print(" ")
 for x in thislist:
-  print(x) 
+ print(x)  
 
-![image](https://github.com/user-attachments/assets/1040b128-b310-4456-bffd-4a40095db274)
-![image](https://github.com/user-attachments/assets/34287025-f165-4663-b81c-3bae62bb2a4a)
+![image](https://github.com/user-attachments/assets/35d2dd97-3ff4-4b0b-8178-269cf13eefb6)
+![image](https://github.com/user-attachments/assets/11830644-a0fd-4b6e-8282-2eded4a906d6)
+
+
+
+
+
 
 
 
